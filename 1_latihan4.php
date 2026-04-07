@@ -1,11 +1,4 @@
-<?php
-// Ini adalah komentar dalam satu baris
 
-/* Kalau yang ini, komentar
-   dalam banyak baris, yang baru
-   akan selesai setelah diakhiri
-   dengan */
-?>
 <html>
 
 <head>
@@ -16,7 +9,6 @@
     Kapal Asing, Silakan identifikasikan diri Anda! <br>
 
     <?php
-    // Berikut ini adalah inisiasi beberapa variabel
     $namad = "Jean";
     $namat = "Luc";
     $namab = "Piccard";
